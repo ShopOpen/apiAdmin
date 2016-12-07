@@ -1,0 +1,21 @@
+{
+  "name": "apiAdmin",
+  "description": "apiAdmin",
+  "main": "bower",
+  "authors": [
+    "yaochenfeng <282696845@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ShopOpen/apiAdmin",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "AdminLTE": "admin-lte#^2.3.8"
+  }
+}
