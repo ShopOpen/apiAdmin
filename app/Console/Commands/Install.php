@@ -3,6 +3,7 @@
 namespace App\Console\Commands;
 
 use Illuminate\Console\Command;
+use Illuminate\Support\Facades\Cache;
 
 class Install extends Command
 {
@@ -37,6 +38,14 @@ class Install extends Command
      */
     public function handle()
     {
-        //
+
+        if (Cache::has('admin_install')) {
+            //已经创建
+            $this->info("admin_install  aleady!");
+        }else{//初始化项目
+            Cache::forever('admin_install', 'true');
+            $this->info("admin_install  not install!");
+
+        }
     }
 }
