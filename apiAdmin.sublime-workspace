@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"string",
+				"string2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 354,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 359.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yaochenfeng/Sites/apiAdmin"
+	],
+	"file_history":
+	[
+		"/Users/yaochenfeng/Sites/apiAdmin/package.json",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCapital/scripts/strings/FDTWMString.sh",
+		"/Users/yaochenfeng/Downloads/手机淘宝 6.0.0/Payload/Taobao4iPhone.app/t112016huichang.json",
+		"/Users/yaochenfeng/Downloads/手机淘宝 6.0.0/Payload/Taobao4iPhone.app/main.js",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCapital/.gitlab-ci.yml",
+		"/Users/yaochenfeng/Documents/FDT/Code/AppRouter/.rvmrc",
+		"/Users/yaochenfeng/Documents/FDT/Code/AppRouter/.gitlab-ci.yml",
+		"/Users/yaochenfeng/Documents/Code/weex/doc/_layouts/header.html",
+		"/Users/yaochenfeng/Documents/Code/weex/doc/book.json",
+		"/Users/yaochenfeng/Documents/Code/weex/doc/ali_addition/weex_doc.js",
+		"/Users/yaochenfeng/Sites/fdt/public/build/js/app-1b1f1714cf.js",
+		"/Users/yaochenfeng/Sites/fdt/resources/assets/js/components/Example.vue",
+		"/Users/yaochenfeng/.composer/composer.json",
+		"/Users/yaochenfeng/Sites/rest_api/app/Http/routes.php",
+		"/Users/yaochenfeng/Sites/tp5/build.php",
+		"/Users/yaochenfeng/Sites/tp5/application/index/controller/Index.php",
+		"/Users/yaochenfeng/Documents/FDT/Docs/FDTCapital/FDTMarketDataManager/FDTMarketDataManager.podspec",
+		"/Users/yaochenfeng/Documents/Code/MyProj/MyFDTCapital/fastlane/Fastfile",
+		"/Users/yaochenfeng/Documents/FDT/Code/ioscert/fastlane/Fastfile",
+		"/Users/yaochenfeng/.ssh/known_hosts",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCapital/FDTWMString.sh",
+		"/Users/yaochenfeng/Downloads/weex-dev/examples/include/example-list-item.we",
+		"/Users/yaochenfeng/Downloads/weex-dev/examples/include/example-list.we",
+		"/Users/yaochenfeng/Downloads/weex-dev/examples/index.we",
+		"/Users/yaochenfeng/Downloads/weex-dev/start",
+		"/Users/yaochenfeng/Downloads/weex-dev 2/start",
+		"/Users/yaochenfeng/Downloads/weex-dev/tests/tech_list.we",
+		"/Users/yaochenfeng/Downloads/atlassian-jira-software-7.2.4-standalone/atlassian-jira/WEB-INF/classes/jira-application.properties",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCapital/scripts/images/create_imageset.sh",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCapital/scripts/images/images-default.stencil",
+		"/Users/yaochenfeng/Sites/blog/routes/web.php",
+		"/Users/yaochenfeng/Documents/FDT/Files/ftp/WealthManagement/wealth.html",
+		"/Users/yaochenfeng/Downloads/weex-dev/examples/vue/index.vue",
+		"/Users/yaochenfeng/Downloads/weex-dev/examples/vue/syntax/hello-world-1.vue",
+		"/Users/yaochenfeng/Desktop/任务分解",
+		"/Users/yaochenfeng/Downloads/CFFoundation/CFFoundation.podspec",
+		"/Users/yaochenfeng/Sites/fdt/config/app.php",
+		"/Users/yaochenfeng/Sites/laravel5admin/config/cache.php",
+		"/Users/yaochenfeng/Sites/laravel5admin/config/auth.php",
+		"/Users/yaochenfeng/Sites/laravel5admin/config/app.php",
+		"/Users/yaochenfeng/Sites/laravel5admin/routes/admin.php",
+		"/Users/yaochenfeng/Downloads/更改基金页面的crash.js",
+		"/Users/yaochenfeng/Sites/laravel5admin/resources/views/welcome.blade.php",
+		"/Users/yaochenfeng/Sites/laravel5admin/app/Console/Kernel.php",
+		"/Users/yaochenfeng/Sites/laravel5admin/package.json",
+		"/Users/yaochenfeng/Sites/laravel5admin/gulpfile.js",
+		"/Users/yaochenfeng/Sites/laravel5admin/config/database.php",
+		"/Users/yaochenfeng/Sites/fdt/composer.json",
+		"/Users/yaochenfeng/Documents/FDT/Files/ftp/1.0.2/bee.html",
+		"/Users/yaochenfeng/Downloads/main.js",
+		"/Users/yaochenfeng/Desktop/main.js",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCapital/FDTCapital/Info.plist",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCapital/Resource/main.js",
+		"/Users/yaochenfeng/Sites/someline/.env.example",
+		"/Users/yaochenfeng/Sites/fdt/routes/web.php",
+		"/Users/yaochenfeng/Sites/fdt/resources/views/bee.blade.php",
+		"/Users/yaochenfeng/Sites/fdt/resources/views/welcome.php",
+		"/Users/yaochenfeng/Documents/FDT/Code/ioscert/script/Fastfile",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCapital/FDTCapital.xcodeproj/project.pbxproj",
+		"/Users/yaochenfeng/Documents/FDT/Files/ftp/WealthManagement/1.6/WealthManagement.plist",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCapital/fastlane/Fastfile",
+		"/Users/yaochenfeng/Downloads/FDTCaptial-master-a2f900602cf140e987a55613bdc4e8ea753fa2bc/Podfile",
+		"/Users/yaochenfeng/Downloads/CFFoundation/Example/Podfile.lock",
+		"/Users/yaochenfeng/Downloads/CFFoundation/CFFoundation/logging/CFLogging.m",
+		"/Users/yaochenfeng/Documents/FDT/AppLog/AppLog.podspec",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCaptial/FDTCapital/AppDelegate.swift",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTMaster/fastlane/Fastfile",
+		"/Users/yaochenfeng/Documents/FDT/Files/FDTCaptial/fastlane/Fastfile",
+		"/Users/yaochenfeng/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/5B302EE5-3A3B-454C-92DF-8ABDDFF95E24/witness.sql",
+		"/Users/yaochenfeng/Documents/FDT/Code/ioscert/fastlane/FDTCapitalFastfile",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTMaster/Script/test_version_china.sh",
+		"/Users/yaochenfeng/Documents/FDT/Files/FDTCaptial_test/scripts/strings/FDTWMString.sh",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCaptial/scripts/strings/FDTWMString.sh",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCaptial/fastlane/Fastfile",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCaptial/.gitlab-ci.yml",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTMaster/fastlane/Appfile",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCaptial1.5/Podfile",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCaptial1.5/FDTCapital.xcodeproj/project.pbxproj",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCaptial1.5/FDTCapital/UserInterface/ManageMoney/FundViewController.swift",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCaptial1.5/fastlane/Fastfile",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCaptial1.5/scripts/images/create_imageset.sh",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCaptial/FDTCapital/Base.lproj/Info.plist",
+		"/Users/yaochenfeng/Documents/FDT/Code/FDTCaptial1.5/scripts/strings/FDTWMString.sh",
+		"/Users/yaochenfeng/Documents/MyPro/Thinkphp3/index.php",
+		"/Users/yaochenfeng/Documents/MyPro/Thinkphp3/composer.json",
+		"/Users/yaochenfeng/Downloads/thinkphp_3/composer.json",
+		"/Users/yaochenfeng/Documents/一元众乐/一元购源码/yiyuanzhongle.com 2/system/modules/yungouapi/member.action.php",
+		"/Users/yaochenfeng/Documents/一元众乐/一元购源码/yiyuanzhongle.com/system/modules/api/uploadify.action.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"FOLDER_A",
+			"Acti",
+			"pch",
+			"wealth-bulter-strings-archive",
+			"db",
+			"localhost",
+			"---",
+			"===",
+			"8FC89B2A1DCCB58700271201",
+			"===",
+			"==",
+			"===",
+			"==",
+			"TARGET_SCHEME",
+			">>>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "apiAdmin.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
