@@ -1,3 +1,4 @@
+
 /node_modules
 /public/storage
 /storage/*.key
@@ -8,8 +9,13 @@ Homestead.yaml
 .env
 
 
+
+
 vendor/
 node_modules/
+bower_components
+
+
 
 # Laravel 4 specific
 bootstrap/compiled.php
@@ -20,7 +26,11 @@ bootstrap/cache/
 .env.*.php
 .env.php
 .env
-
+*.lock
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+#sublime
+*.sublime-project
+*.sublime-workspace
 
