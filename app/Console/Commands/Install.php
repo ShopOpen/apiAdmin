@@ -38,7 +38,7 @@ class Install extends Command
      */
     public function handle()
     {
-
+        shell_exec("composer install && npm install && bower install");
         if (Cache::has('admin_install')) {
             //已经创建
             $this->info("admin_install  aleady!");
