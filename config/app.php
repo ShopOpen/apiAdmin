@@ -123,6 +123,7 @@ return [
     'log' => env('APP_LOG', 'single'),
 
     'log_level' => env('APP_LOG_LEVEL', 'debug'),
+    'repository.generator.stubsOverridePath'=> __DIR__,
 
     /*
     |--------------------------------------------------------------------------
@@ -178,6 +179,7 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        Prettus\Repository\Providers\RepositoryServiceProvider::class,
     ],
 
     /*
